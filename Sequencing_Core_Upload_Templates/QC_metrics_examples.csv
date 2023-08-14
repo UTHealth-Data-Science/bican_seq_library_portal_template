@@ -1,4 +1,4 @@
-Demultiplex QC Report for flowcell ID (e.g., 230830_LH00131_0017_A2272FHLU3),,,,,,,,,,,,,,,
+Demultiplex QC Report for flowcell ID (such as 230830_LH00131_0017_A2272FHLU3),,,,,,,,,,,,,,,
 [Lane Metrics],,,,,,,,,,,,,,,
 Lane,Total PFReads,Fraction PFReads IDed (%),PFReads IDed/Lane,Q>=30 R1/R2 (%),Aligned R1/R2 (%),Prephasing R1/R2 (%),Phasing R1/R2 (%),Error Rate R1/R2 (%),,,,,,,
 L001,"1,274,480,618",91.25,"1,162,914,980",97.18/96.34,97.00/96.02,0.06/0.04,0.06/0.10,0.05/0.17,,,,,,,
