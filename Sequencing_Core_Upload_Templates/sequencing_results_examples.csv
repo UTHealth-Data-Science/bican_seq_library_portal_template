@@ -1,4 +1,4 @@
-library_package_id,library_package_name,library_pool_nhash_id,library_pool_name,library_aliquot_nhash_id,library_aliquot_name,sequencing_result_status,sequencing_result_date,fastq_file_path,comments
+library_package_id,library_package_name,library_pool_nhash_id,library_pool_name,library_aliquot_nhash_id,library_aliquot_name,sequencing_result_status,sequencing_result_date,fastq_file_name,comments
 6,lpa-test-4,LP-HERTRL867538,lp-test-7,LA-VXVPVQ328914HERTRL867538,la-test-1,Ready,7/11/2023,your file name/path,
 6,lpa-test-4,LP-EIFSUS158493,lp-test-8,LA-AAXBDX644067EIFSUS158493,la-test-2,Ready,7/13/2023,your file name/path,
 6,lpa-test-4,LP-EIFSUS158493,lp-test-8,LA-VXVPVQ328914EIFSUS158493,la-test-3,,,,library aliquot name does not match
