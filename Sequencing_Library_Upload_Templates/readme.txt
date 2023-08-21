@@ -1,7 +1,7 @@
 1. The file name need to be kept the same.
 2. The format of "project_identifier" should be "NIH AWARD NUMBER - PI's first_name last_name", for example, "UM1MH130981 - Ed Lein"
 3. The value set of "species" is as follows: 
-['NCBITaxon:9606', stands for 'Human Adult',
+['NCBITaxon:9606', stands for 'Human',
 'NCBITaxon:9483', stands for 'Callithrix jacchus - common marmoset',
 'NCBITaxon:10090', stands for 'Mus musculus - mouse',
 'NCBITaxon:9544', stands for 'Macaca mulatta - rhesus macaque',
