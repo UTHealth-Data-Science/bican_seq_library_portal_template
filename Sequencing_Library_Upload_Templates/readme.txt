@@ -31,3 +31,6 @@
 6. The value set of "library_source_type" is: ["amplified_cdna","barcoded_cell_sample",""].
 7. The value set of "library_technique" is: ["ATACMultiome", "ATACOnly", "GEXMultiome", "GEXOnly", "snm3C-seq"].
 8. The value set of "sequencing_center_id" is: ["BROAD","NYGC"].
+9. The "other_species" field is required, with a value of 0 representing humans and 1 indicating a different species.
+10. If the "other_species" field is set to 0, kindly keep the "species" field empty.
+11. The former "roi_nhash_id" has been renamed to "roi_id".
