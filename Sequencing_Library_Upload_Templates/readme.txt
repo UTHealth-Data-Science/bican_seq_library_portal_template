@@ -33,4 +33,4 @@
 8. The value set of "sequencing_center_id" is: ["BROAD","NYGC"].
 9. The "other_species" field is required, with a value of 0 representing standard human and 1 indicating different species or other human.
 10. If the "other_species" field is set to 0, kindly keep the "species" field empty, and "roi_id" is required.
-11. The former "roi_nhash_id" has been renamed to "roi_id".
+12. The value set of "structure" in the "tissue_sample_structure.csv" is shown in MAB.csv (column "id") and DHBA.csv (column "id").
