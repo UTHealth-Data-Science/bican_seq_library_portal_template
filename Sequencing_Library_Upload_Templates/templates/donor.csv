@@ -1,0 +1,3 @@
+donor_local_name,age_at_death_value,age_at_death_unit,age_at_death_reference_point,age_at_death_description,donor_species,biological_sex,project_identifier
+C57BL6J-699577,14.0,days,birth,P14,NCBITaxon:10090,Male,U01MH130962 - Paola Arlotta
+C57BL6J-699579,8.0,days,birth,P8,NCBITaxon:10090,Female,U01MH130962 - Paola Arlotta
