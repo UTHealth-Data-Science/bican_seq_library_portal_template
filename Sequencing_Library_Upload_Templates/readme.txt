@@ -33,5 +33,5 @@
 8. The value set of "library_technique" is: ["ATACMultiome", "ATACOnly", "GEXMultiome", "GEXOnly", "snm3C-seq"].
 9. The value set of "sequencing_center_id" is: ["BROAD","NYGC"].
 10. The "other_species" field is required, with a value of 0 representing standard human and 1 indicating different species or other human.
-11. If the "other_species" field is set to 0, kindly keep the "species" field empty, and "roi_id" is required.
+11. If the "other_species" field is set to 0, kindly keep the "species" field empty, and "roi_local_name" is required. You have the flexibility to use either the ROI NHash ID or the local name as the value.
 12. The value set of "structure" in the "tissue_sample_structure.csv" is shown in MAB.csv (column "id") and DHBA.csv (column "id").
