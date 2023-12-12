@@ -1,5 +1,18 @@
-dissociated_cell_sample_local_name,dissociated_cell_sample_cell_label_barcode,dissociated_cell_sample_cell_prep_type,project_identifier
-20230905_699577.002,,Cells,U01MH130962 - Paola Arlotta
-20230830_699579.002,,Cells,U01MH130962 - Paola Arlotta
-20230830_699579.001,,Cells,U01MH130962 - Paola Arlotta
-20230905_699577.001,,Cells,U01MH130962 - Paola Arlotta
+dissociated_cell_sample_local_name,dissociated_cell_sample_cell_label_barcode,dissociated_cell_sample_cell_prep_type,dissociated_cell_sample_preparation_date,project_identifier
+20231127_H23.30.001.BS.10.Mo.03.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231121_H23.30.001.BS.09.Mo.06.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231121_H23.30.001.BS.09.Mo.05.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231201_H23.30.001.BS.11.Mo.02.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231115_H23.30.001.BS.09.Mo.04.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231127_H23.30.001.BS.10.Mo.02.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231201_709981.001,,Nuclei,,U01MH130962 - Paola Arlotta
+20231127_H23.30.001.BS.10.Mo.01.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231121_H23.30.001.BS.10.IO.01.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.070.CX.06.EC.01.CellPlex,CMO303,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.065.CX.03.A25.01.CellPlex,CMO301,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.087.CX.06.EC.01.CellPlex,CMO304,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.069.CX.03.A25.01.CellPlex,CMO302,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.089.CX.06.EC.01.CellPlex,CMO306,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.078.CX.06.EC.01.CellPlex,CMO305,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.110.CX.03.A25.01.CellPlex,CMO308,Nuclei,,UM1MH130981 - Ed Lein
+20231130_QM23.57.101.CX.03.A25.01.CellPlex,CMO307,Nuclei,,UM1MH130981 - Ed Lein

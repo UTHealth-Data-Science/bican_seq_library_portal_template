@@ -1,4 +1,4 @@
-To facilitate batch uploading of QC reports and sequencing results, kindly adhere to the following file naming conventions:
-1. For the QC file, name it as "yourLibraryPoolLocalName_qc.csv."
-2. For the sequencing status result file, use the name "yourLibraryPoolLocalName_seq_status.csv."
-If errors occur during the process, the error message will be retrievable as a downloadable TXT file.
+1. For NYGC, To facilitate batch uploading of QC reports and sequencing results, kindly adhere to the following file naming conventions:
+	i. For the QC file, name it as "yourLibraryPoolLocalName_qc.csv."
+	ii. For the sequencing status result file, use the name "yourLibraryPoolLocalName_seq_status.csv."
+2. If errors occur during the process, the error message will be retrievable as a downloadable TXT file.
