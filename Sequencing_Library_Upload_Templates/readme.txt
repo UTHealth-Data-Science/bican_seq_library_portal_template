@@ -1,4 +1,4 @@
-1. In each CSV file, assign a unique local name to the field labeled as '*_local_name'. DO NOT utilize the identical one present in the template.
+1. In each CSV file, assign YOUR OWN local name to the field labeled as '*_local_name'. DO NOT utilize the identical one present in the template.
 2. The file names need to be kept the same.
 3. The format of "project_identifier" should be "NIH AWARD NUMBER - PI's first_name last_name", for example, "UM1MH130981 - Ed Lein"
 4. For Human donor, please leave "donor_species" as empty. 
