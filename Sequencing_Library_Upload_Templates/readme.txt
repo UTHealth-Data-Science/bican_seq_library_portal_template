@@ -5,3 +5,4 @@
 5. If the "other_species" field is set to 0, kindly keep the "species" field empty, and "roi_local_name" is required. You have the flexibility to use either the ROI NHash ID or the local name as the value.
 6. The format for date fields is: mm/dd/yyyy.
 7. Please refer the data dictionary "Sequencing_Library_batch_upload_data_dictionary.csv" for value sets.
+8. barcoded_cell_sample_tag.csv and barcoded_cell_sample_tag_component.csv are optional.
