@@ -1,0 +1,23 @@
+barcoded_cell_sample_tag_local_name,barcoded_cell_sample_tag_description
+TAG_EXAMPLE_HMBA_Human_Atlas,Human whole brain multiome samples. HMBA Aim 1.
+TAG_EXAMPLE_HMBA_Human_Atlas_H,HMBA human hindbrain (pons and medulla) ROIs
+TAG_EXAMPLE_HMBA_Macaque_Pop,Macaque population study for HMBA
+TAG_EXAMPLE_BICAN_Dev_P12,BICAN Dev Mouse- Start Oct 2023
+TAG_EXAMPLE_BICAN_Dev_Atlas,BICAN Mouse Developmental Atlas. Start Jan 2023
+TAG_EXAMPLE_BICAN_Dev_P4,BICAN Dev Mouse- Start July 2023
+TAG_EXAMPLE_BICAN_Dev_P14,BICAN Dev Mouse- Start Aug 2023
+TAG_EXAMPLE_HMBA_Macaque_Atlas,Macaque whole brain multiome samples. HMBA Aim 1.
+TAG_EXAMPLE_HMBA_Macaque_Atlas_H,HMBA macaque hindbrain (pons and medulla) ROIs
+TAG_EXAMPLE_HMBA_Cross_Species,HMBA cross species Aim 4.
+TAG_EXAMPLE_HMBA_Human_Atlas_M,HMBA human midbrain ROIs
+TAG_EXAMPLE_HMBA_Macaque_Atlas_BN_BF,HMBA macaque basal nuclei and basal forebrain ROIs
+TAG_EXAMPLE_HMBA_Macaque_Atlas_THM,HMBA macaque thalamus ROIs
+TAG_EXAMPLE_P0_Pilot,P0 Pilot study for BICAN_Dev_Atlas. Jan 2023
+TAG_EXAMPLE_HMBA_Macaque_Atlas_M,HMBA macaque midbrain ROIs
+TAG_EXAMPLE_HMBA_Macaque_Atlas_Cx,HMBA macaque cerebral cortex ROIs
+TAG_EXAMPLE_BICAN_Dev_P8,BICAN Dev Mouse- Start Aug 2023
+TAG_EXAMPLE_HMBA_Human_Atlas_BN_BF,HMBA human basal nuclei and basal forebrain ROIs
+TAG_EXAMPLE_HMBA_Macaque_Atlas_AMY,HMBA macaque amygdaloid complex ROIs
+TAG_EXAMPLE_HMBA_Macaque_Atlas_CB,HMBA macaque cerebellum ROIs
+TAG_EXAMPLE_BICAN_Dev_P26,BICAN Dev Mouse- Start Dec 2023
+TAG_EXAMPLE_BICAN_Dev_P28,BICAN Dev Mouse- Start Oct 2023
