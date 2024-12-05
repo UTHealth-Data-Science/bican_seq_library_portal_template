@@ -1,0 +1,11 @@
+section_sample_local_name,tissue_sample_local_name,section_sample_ordinal,section_sample_thickness,section_sample_barcode,section_sample_plane_of_section,section_sample_usage
+SECTION_EXAMPLE_C57BL6J-716292.126,TISSUE_EXAMPLE_C57BL6J-716292,126,14,1369522253,coronal (caudal to rostral),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.125,TISSUE_EXAMPLE_C57BL6J-716292,125,14,1369522250,horizontal (ventral to dorsal),histology
+SECTION_EXAMPLE_C57BL6J-716292.124,TISSUE_EXAMPLE_C57BL6J-716292,124,14,1369522247,coronal (rostral to caudal),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.123,TISSUE_EXAMPLE_C57BL6J-716292,123,14,1369522244,horizontal (ventral to dorsal),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.122,TISSUE_EXAMPLE_C57BL6J-716292,122,14,1369522241,coronal (rostral to caudal),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.121,TISSUE_EXAMPLE_C57BL6J-716292,121,14,1369522238,coronal (caudal to rostral),histology
+SECTION_EXAMPLE_C57BL6J-716292.120,TISSUE_EXAMPLE_C57BL6J-716292,120,14,1369522235,coronal (caudal to rostral),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.119,TISSUE_EXAMPLE_C57BL6J-716292,119,14,1369522232,sagittal (medial to lateral),histology
+SECTION_EXAMPLE_C57BL6J-716292.118,TISSUE_EXAMPLE_C57BL6J-716292,118,14,1369522229,coronal (caudal to rostral),spatial transcriptomics
+SECTION_EXAMPLE_C57BL6J-716292.117,TISSUE_EXAMPLE_C57BL6J-716292,117,14,1369522225,sagittal (lateral to medial),histology
