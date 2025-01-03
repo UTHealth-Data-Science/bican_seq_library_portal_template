@@ -1,0 +1,24 @@
+NHashID,<NHash ID of the Library Aliquot>
+sequenced_reads,100170178.0
+sequenced_read_pairs,55074780.1
+fraction_valid_barcode,0.692539069025081
+fraction_q30_bases_in_read_1,0.394718955451383
+fraction_q30_bases_in_read_2,0.1388140726661568
+number_of_cells,1352
+mean_raw_read_pairs_per_cell,44474.6354166667
+median_high-quality_fragments_per_cell,76013.5
+fraction of high-quality fragments in cells,0.18722390307543536
+fraction_of_transposition_events_in_peaks_in_cells,0.1559629874886429
+ATAC_percent_target,25.424436172542152
+fraction_duplicates,0.1753736344749324
+fraction_confidently_mapped,0.150726978759866
+fraction_unmapped,0.1102913131436293
+fraction_nonnuclear,0.1
+fraction_fragment_in_nucleosome_free_region,0.1793318141852905
+fraction_fragment_flanking_single_nucleosome,0.19688520607890028
+tss_enrichment_score,6.183309705626572
+fraction_of_high-quality_fragments_overlapping_tss,0.4348865461047655
+number_of_peaks,354467
+fraction_of_genome_in_peaks,0.43216608346629028
+fraction_of_high-quality_fragments_overlapping_peaks,0.88269522190222
+
