@@ -1,0 +1,2 @@
+donor_local_name,access_level,data_use_limitation,disease_specification,irb_approval_required,publication_required,collaboration_required,not_for_profit_use_only,methods,genetic_study_only
+H18.30.002,Controlled,Disease-specific,Brain health and disease,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
