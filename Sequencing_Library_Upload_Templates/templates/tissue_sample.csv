@@ -1,11 +1,11 @@
-tissue_sample_local_name,tissue_sample_preparation_date,species,project_identifier,other_species,roi_local_name,donor_local_name,parent_tissue_sample_local_name,brain_subdivision,brain_hemisphere
-TISSUE_EXAMPLE_C57BL6J-716292,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-716292,,whole brain,both
-TISSUE_EXAMPLE_H23.30.001.BS.10.Mo.03_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.10.Mo.03,,,whole brain,left
-TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.06_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.06,,,cerebellum,left
-TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.05_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.05,,,brainstem,right
-TISSUE_EXAMPLE_H23.30.001.BS.11.Mo.02_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.11.Mo.02,,,whole brain,left
-TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.04_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.04,,,whole brain,right
-TISSUE_EXAMPLE_H23.30.001.BS.10.Mo.02_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.10.Mo.02,,,cerebellum + brainstem,left
-TISSUE_EXAMPLE_C57BL6J-709981.02_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,both
-TISSUE_EXAMPLE_C57BL6J-709981.04_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,left
-TISSUE_EXAMPLE_C57BL6J-709981.15_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,both
+tissue_sample_local_name,tissue_sample_preparation_date,species,project_identifier,other_species,roi_local_name,donor_local_name,parent_tissue_sample_local_name,brain_subdivision,brain_hemisphere,tissue_sample_type
+TISSUE_EXAMPLE_C57BL6J-716292,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-716292,,whole brain,both,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.10.Mo.03_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.10.Mo.03,,,whole brain,left,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.06_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.06,,,cerebellum,left,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.05_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.05,,,brainstem,right,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.11.Mo.02_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.11.Mo.02,,,whole brain,left,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.04_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.04,,,whole brain,right,Slice-Acute
+TISSUE_EXAMPLE_H23.30.001.BS.10.Mo.02_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.10.Mo.02,,,cerebellum + brainstem,left,Slice-Acute
+TISSUE_EXAMPLE_C57BL6J-709981.02_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,both,Slice-Acute
+TISSUE_EXAMPLE_C57BL6J-709981.04_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,left,Slice-Acute
+TISSUE_EXAMPLE_C57BL6J-709981.15_Mouse-Multiome-HB,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-709981,,whole brain,both,Slice-Acute
