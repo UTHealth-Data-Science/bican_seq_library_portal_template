@@ -1,4 +1,5 @@
 barcoded_cell_sample_local_name,barcoded_cell_sample_source_type,barcoded_cell_sample_number_of_expected_cells,barcoded_cell_sample_preparation_date,project_identifier,barcoded_cell_sample_port_well,barcoded_cell_input_quantity_count,barcoded_cell_sample_technique
+*Required,*Required,*Required,Optional,*Required,Optional,Optional,Optional
 BARCODE_EXAMPLE_C_C02,enriched_cell_sample,10000,,UM1MH130981 - Ed Lein,C02,16335,Multiome
 BARCODE_EXAMPLE_B_B02,enriched_cell_sample,10000,,UM1MH130981 - Ed Lein,B02,16485,Multiome
 BARCODE_EXAMPLE_B_A02,enriched_cell_sample,10000,,UM1MH130981 - Ed Lein,A02,15984,Multiome
