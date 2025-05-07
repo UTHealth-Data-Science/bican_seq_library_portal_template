@@ -1,4 +1,5 @@
 donor_local_name,age_at_death_value,age_at_death_unit,age_at_death_reference_point,age_at_death_description,donor_species,biological_sex,project_identifier
+*Required,Optional,Optional,Optional,Optional,Optional,Optional,*Required
 DONOR_EXAMPLE_C57BL6J-709981,14.0,days,birth,P14,NCBITaxon:10090,Male,U01MH130962 - Paola Arlotta
 DONOR_EXAMPLE_QM23.57.070,8.0,years,birth,8 yrs,NCBITaxon:9544,Female,UM1MH130981 - Ed Lein
 DONOR_EXAMPLE_QM23.57.065,7.0,years,birth,7 yrs,NCBITaxon:9544,Male,UM1MH130981 - Ed Lein
