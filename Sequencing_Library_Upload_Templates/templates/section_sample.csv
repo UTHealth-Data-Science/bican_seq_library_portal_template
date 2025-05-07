@@ -1,4 +1,5 @@
 section_sample_local_name,tissue_sample_local_name,section_sample_ordinal,section_sample_thickness,section_sample_barcode,section_sample_plane_of_section,section_sample_usage
+*Required,*Required,Optional,Optional,Optional,Optional,Optional
 SECTION_EXAMPLE_C57BL6J-716292.126,TISSUE_EXAMPLE_C57BL6J-716292,126,14,1369522253,coronal (caudal to rostral),spatial transcriptomics
 SECTION_EXAMPLE_C57BL6J-716292.125,TISSUE_EXAMPLE_C57BL6J-716292,125,14,1369522250,horizontal (ventral to dorsal),histology
 SECTION_EXAMPLE_C57BL6J-716292.124,TISSUE_EXAMPLE_C57BL6J-716292,124,14,1369522247,coronal (rostral to caudal),spatial transcriptomics
