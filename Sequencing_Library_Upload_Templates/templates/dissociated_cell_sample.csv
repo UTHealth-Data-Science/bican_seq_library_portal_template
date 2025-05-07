@@ -1,4 +1,5 @@
 dissociated_cell_sample_local_name,dissociated_cell_sample_cell_label_barcode,dissociated_cell_sample_cell_prep_type,dissociated_cell_sample_preparation_date,project_identifier
+*Required,Optional,*Required,Optional,*Required
 DISSOCIATED_EXAMPLE_20231127_H23.30.001.BS.10.Mo.03.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
 DISSOCIATED_EXAMPLE_20231121_H23.30.001.BS.09.Mo.06.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
 DISSOCIATED_EXAMPLE_20231121_H23.30.001.BS.09.Mo.05.Multiome,,Nuclei,,UM1MH130981 - Ed Lein
