@@ -1,3 +1,3 @@
 library_package_local_name,sequencing_center_id,library_package_submisson_date
-*Required,Optional,*Required
+*Required,*Required,Optional
 LIBRARY_PACKAGE_EXAMPLE_NYGC_231212_shipment,NYGC,11/28/2023
