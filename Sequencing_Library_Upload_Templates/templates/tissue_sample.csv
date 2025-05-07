@@ -1,4 +1,5 @@
 tissue_sample_local_name,tissue_sample_preparation_date,species,project_identifier,other_species,roi_local_name,donor_local_name,parent_tissue_sample_local_name,brain_subdivision,brain_hemisphere,tissue_sample_type
+*Required,Optional,*Required,*Required,*Required,*Required if other_species is 0,*Required if other_species is 1,Optional,Optional,Optional
 TISSUE_EXAMPLE_C57BL6J-716292,,NCBITaxon:10090,U01MH130962 - Paola Arlotta,1,,DONOR_EXAMPLE_C57BL6J-716292,,whole brain,both,Slice-Acute
 TISSUE_EXAMPLE_H23.30.001.BS.10.Mo.03_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.10.Mo.03,,,whole brain,left,Slice-Acute
 TISSUE_EXAMPLE_H23.30.001.BS.09.Mo.06_Mo,,NCBITaxon:9606,UM1MH130981 - Ed Lein,0,ROI_EXAMPLE_H23.30.001.BS.09.Mo.06,,,cerebellum,left,Slice-Acute
