@@ -1,5 +1,5 @@
 amplified_cdna_local_name,barcoded_cell_sample_local_name,amplified_cdna_preparation_date,project_identifier,amplified_cdna_amplified_quantity_ng,amplified_cdna_pcr_cycles,amplified_cdna_rna_amplification_pass_fail,amplified_cdna_percent_cdna_longer_than_400bp,cdna_amplification_set
-*Required,Optional,Optional,*Required,Optional,Optional,Optional,Optional,Optional
+*Required,*Required,Optional,*Required,Optional,Optional,Optional,Optional,Optional
 CDNA_EXAMPLE_A8XR_231128_01_E04,BARCODE_EXAMPLE_C_C02,11/28/2023,UM1MH130981 - Ed Lein,304.515094564222,10,Pass,0.987,CDNA_EXAMPLE_A8XR_231128_01
 CDNA_EXAMPLE_A8XR_231128_01_B04,BARCODE_EXAMPLE_B_B02,11/28/2023,UM1MH130981 - Ed Lein,601.580297715392,9,Pass,0.979,CDNA_EXAMPLE_A8XR_231128_01
 CDNA_EXAMPLE_A8XR_231128_01_F04,BARCODE_EXAMPLE_B_A02,11/28/2023,UM1MH130981 - Ed Lein,437.996974027212,10,Pass,0.922,CDNA_EXAMPLE_A8XR_231128_01
