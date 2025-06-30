@@ -8,4 +8,5 @@
 8. Please refer to the data dictionary "Sequencing_Library_batch_upload_data_dictionary.csv" for information regarding all the fields in the templates including their types, value sets for categorical variables, and whether they are required or not.
 9. barcoded_cell_sample_tag.csv and barcoded_cell_sample_tag_component.csv are optional.
 10. donor_local_name is required for "tissue_sample.csv".
-11. Once your CSV is ready, please remove the row containing '*Required' or 'Optional' before uploading it to NIMP.
+11. In "tissue_sample.csv," if the donor is from NBB, then the NHash ID should be listed under the "donor_local_name" column.
+12. Once your CSV is ready, please remove the row containing '*Required' or 'Optional' before uploading it to NIMP.
