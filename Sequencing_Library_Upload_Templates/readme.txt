@@ -10,3 +10,4 @@
 10. donor_local_name is required for "tissue_sample.csv".
 11. In "tissue_sample.csv," if the donor is from NBB, then the NHash ID should be listed under the "donor_local_name" column.
 12. Once your CSV is ready, please remove the row containing '*Required' or 'Optional' before uploading it to NIMP.
+13. If you want to submit new R1 R2 indexes to be used in NIMP, please use the template R1_R2_index/R1_R2_Index_template.csv and email it to xiaojin.li@uth.tmc.edu and rashmie.abeysinghe@uth.tmc.edu
